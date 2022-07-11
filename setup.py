@@ -7,4 +7,4 @@ setup(name='Books',
       author='Ali Roth',
       author_email='wat6sv@virginia.edu',
       license='MIT',
-      packages=['booklover', 'booklover_test'])
+      packages=['Books'])
